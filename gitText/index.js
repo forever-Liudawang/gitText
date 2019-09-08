@@ -12,6 +12,6 @@ class liu {
     constructor(){
         this.name="liuge";
         this.age=10;
-        this.height=100;
+        this.height=1000000;
     }
 }
