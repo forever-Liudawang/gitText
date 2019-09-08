@@ -5,3 +5,4 @@ console.log(a)
 function add(){
     return a+b;
 }
+
