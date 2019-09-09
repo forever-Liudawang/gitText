@@ -15,6 +15,7 @@ class liu {
         this.height=1;
     }
 }
+console.log('dev')
 var arrow=n=>{
     return 20;
 }
