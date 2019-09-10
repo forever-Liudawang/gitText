@@ -1,5 +1,5 @@
 console.log('text')
-var a=10;
+var a=101000;
 var b=20;
 var c=3000;
 var  h=0;
