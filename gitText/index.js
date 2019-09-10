@@ -15,7 +15,7 @@ class liu {
         this.height=1;
     }
 }
-console.log('dev');
+console.log('dev')
 console.log('gittext1')
 console.log('devfenzhi2')
 var arrow=n=>{
