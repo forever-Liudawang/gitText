@@ -1,6 +1,6 @@
 console.log('text')
 var a=101000;
-var b=20;
+var b=10;
 var c=3000;
 var  h=0;
 console.log(b)
