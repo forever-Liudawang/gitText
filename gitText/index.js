@@ -16,6 +16,7 @@ class liu {
     }
 }
 console.log('dev')
+console.log('gittext1')
 console.log('devfenzhi2')
 var arrow=n=>{
     return 20;
